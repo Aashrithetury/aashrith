@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai aashrith etury</h1>
-<h3 align="center">A passionate in Softawre Devlopment from India</h3>
+<h3 align="center">A passionate in Software Development from India</h3>
 
 - I'm currently Learning *python*
 
